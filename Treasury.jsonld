@@ -55,75 +55,12 @@
       "@value": "test"
     },
     "motivation": {
-      "@value": "tset"
+      "@value": "test"
     },
     "rationale": {
-      "@value": "tst"
+      "@value": "test"
     },
     "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
-        }
-      },
       {
         "@type": "Other",
         "label": {
