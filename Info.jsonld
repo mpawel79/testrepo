@@ -52,13 +52,13 @@
   },
   "body": {
     "abstract": {
-      "@value": "test1"
+      "@value": "test"
     },
     "motivation": {
-      "@value": "test1"
+      "@value": "test"
     },
     "rationale": {
-      "@value": "test1"
+      "@value": "test"
     },
     "references": [
       {
@@ -67,12 +67,12 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://test1.com"
+          "@value": "https://test.com"
         }
       }
     ],
     "title": {
-      "@value": "test1"
+      "@value": "test"
     }
   }
 }
