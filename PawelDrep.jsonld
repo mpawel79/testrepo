@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "testbio"
+      "@value": "test"
     },
     "dRepName": {
       "@value": "PawelDrep"
@@ -66,7 +66,7 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/register"
+          "@value": "https://test.com"
         }
       }
     ]
