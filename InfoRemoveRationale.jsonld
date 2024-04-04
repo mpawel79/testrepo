@@ -57,7 +57,9 @@
     "motivation": {
       "@value": "Test INFO GA - motivation 00"
     },
-  
+    "rationale": {
+      "@value": "Test INFO GA - rationale 00"
+    },
     "references": [
       {
         "@type": "Other",
