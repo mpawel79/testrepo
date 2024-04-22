@@ -63,10 +63,10 @@
     "references": [
       {
         "@type": "Other",
-        "label": {
+        "CIP108:reference-label": {
           "@value": "Label"
         },
-        "uri": {
+        "CIP108:reference-uri": {
           "@value": "https://test.com"
         }
       }
