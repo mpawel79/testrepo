@@ -57,15 +57,15 @@
       "@value": "test"
     },
     "email": {
-      "@value": "test@test.com"
+      "@value": "pawel.mergist@binarapps.com"
     },
     "references": [
       {
         "@type": "Other",
-        "label": {
+        "CIPQQQ:reference-label": {
           "@value": "Label"
         },
-        "uri": {
+        "CIPQQQ:reference-uri": {
           "@value": "https://test.com"
         }
       }
