@@ -1,5 +1,5 @@
-{
-  "@context": {
+{ INVALID_JSON
+  ntext": {
     "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIPQQQ": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-QQQ/README.md#",
